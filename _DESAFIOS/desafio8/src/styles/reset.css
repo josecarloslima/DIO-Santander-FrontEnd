@@ -1,0 +1,9 @@
+/* o reset serve para que todo navegador comece do mesmo ponto*/
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
